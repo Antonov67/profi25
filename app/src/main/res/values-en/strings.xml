@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profi25</string>
+    <string name="hello">Hello Again!</string>
+    <string name="fill">Fill your details or continue with social media</string>
+</resources>

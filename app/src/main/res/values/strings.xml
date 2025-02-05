@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">profi25</string>
+    <string name="hello">Привет!</string>
+    <string name="fill">Заполните Свои данные или продолжите через социальные медиа</string>
+</resources>
