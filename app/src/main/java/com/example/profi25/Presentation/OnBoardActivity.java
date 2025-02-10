@@ -36,6 +36,6 @@ public class OnBoardActivity extends AppCompatActivity {
     }
 
     public void onb3Click(View view) {
-        startActivity(new Intent(OnBoardActivity.this, HomeActivity.class));
+        startActivity(new Intent(OnBoardActivity.this, SignInActivity.class));
     }
 }
